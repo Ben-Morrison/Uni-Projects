@@ -1,0 +1,37 @@
+New South Wales	Charles Sturt University	4265	4298	4287	4668	4614	
+New South Wales	Macquarie University	6255	6880	7294	7632	7625	
+New South Wales	Southern Cross University	2432	2742	2573	2666	2442	
+New South Wales	The University of New England	1601	1531	1504	1632	1690	
+New South Wales	The University of New South Wales	10572	10865	11077	11008	11424	
+New South Wales	The University of Newcastle	9364	9651	9876	10300	10571	
+New South Wales	The University of Sydney	13963	14631	14271	14486	15058	
+New South Wales	"University of Technology, Sydney"	10155	9906	9854	10621	9614	
+New South Wales	University of Western Sydney	11251	11776	11713	11947	13158	
+New South Wales	University of Wollongong	3645	3685	3843	3801	3608	
+Victoria	Deakin University	10780	12301	11223	11443	11288	
+Victoria	La Trobe University	7350	8377	8971	8987	9019	
+Victoria	Monash University	13346	15148	15119	14128	14786	
+Victoria	RMIT University	12830	13232	13444	13556	12472	
+Victoria	Swinburne University of Technology	3091	3314	3494	3288	3099	
+Victoria	The University of Melbourne	10035	8995	9242	10854	11315	
+Victoria	University of Ballarat	1609	1718	1697	1531	1334	
+Victoria	Victoria University	5334	5427	4708	4789	4475	
+Queensland	Central Queensland University	2970	3114	3016	3808	3931	
+Queensland	Griffith University	10513	11828	12137	11342	11003	
+Queensland	James Cook University	4852	5675	5371	5882	5899	
+Queensland	Queensland University of Technology	12062	13806	13446	13538	14255	
+Queensland	The University of Queensland	12939	14169	14359	14469	14778	
+Queensland	University of Southern Queensland	3754	4378	3730	3219	2508	
+Queensland	University of the Sunshine Coast	2238	2569	2466	2594	2656	
+Western Australia	Curtin University of Technology	5814	6993	7015	7013	7484	
+Western Australia	Edith Cowan University	3769	4343	3481	3407	3257	
+Western Australia	Murdoch University	2706	2837	2893	3102	2834	
+Western Australia	The University of Western Australia	6361	6661	7143	5782	5366	
+South Australia	Flinders University of South Australia	4558	5133	5442	5639	5823	
+South Australia	The University of Adelaide	7613	7348	7971	8510	8969	
+South Australia	University of South Australia	8960	9419	8950	9651	9504	
+Northern Territory	Charles Darwin University	2148	2335	2403	2625	2769	
+Tasmania	University of Tasmania	9251	9692	10521	11722	12482	
+Australian Capital Territory	The Australian National University	3541	3326	3329	3379	3263	
+Australian Capital Territory	University of Canberra	1917	1905	2166	2088	2050	
+Multi-State	Australian Catholic University	5893	6988	7181	8060	8974
